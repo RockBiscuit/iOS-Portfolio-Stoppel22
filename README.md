@@ -10,4 +10,5 @@ I created a website (the domain has expired by now) for a podcast me and my frie
 ## Rocket Game
 A game I made as a project for AP Computer Science Principles. It was made using simplistic block programing in MIT App Inventor. You play as a spaceship moving around the screen via touch controls, trying to avoid asteroids. You have a score that starts at 0 and goes up every second you're alive. There are also astornauts falling that add 5 to your score it you hit them, and potions that give you a shield so you can be hit once by an asteroid and survive.
 #### 2022
- * 
+## Drum Pads
+An app comprised of 8 drum pads, all making a different drum sound. The app was created using SwiftUI for the code, and Sketch for the assets.

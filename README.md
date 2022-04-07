@@ -15,7 +15,7 @@ A game I made as a project for AP Computer Science Principles. It was made using
 An app comprised of 8 drum pads, all making a different drum sound. The app was created using SwiftUI for the code, and Sketch for the assets. Hopefully the app will be able to record in sounds and assign them to different buttons. I would also like to add in an option to record in one sound and chop it into 8 parts to play each section on different pads. Other additions I might add would be a record button to record a song you make, a share button to export a recording as a .mp3 or .wav, and an effects button so you could pitch up or down a sample, or add something like an echo.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-06 at 15 06 34](https://user-images.githubusercontent.com/98774916/162276345-e4ae4c18-e0df-4f0c-9768-a7a480ee5ae5.png)
-## Spotify Social Media App
+## <a href = "https://github.com/RockBiscuit/Spotify-Social">Spotify Social Media App
 This app, which is still very bare bones, would be a way to comment, like, and share songs that you are listening to on Spotify. Essentially it would be like an Instagram for songs.
 ## Tower Defense Game
 Working as a group we have started work on a tower defense game. The game will have enemies coming for a tower that you need to defend by building towers next to the path that the enemies will be traveling on. The towers will be able to leveled up, and the enemies will progressively get harder.

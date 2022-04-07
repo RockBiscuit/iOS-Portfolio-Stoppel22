@@ -13,4 +13,8 @@ A game I made as a project for AP Computer Science Principles. It was made using
 #### 2022
 ## <a href = "https://github.com/RockBiscuit/Drum-Pads">Drum Pads</a>
 An app comprised of 8 drum pads, all making a different drum sound. The app was created using SwiftUI for the code, and Sketch for the assets.
- 
+
+![Simulator Screen Shot - iPhone 13 - 2022-04-06 at 15 06 34](https://user-images.githubusercontent.com/98774916/162276345-e4ae4c18-e0df-4f0c-9768-a7a480ee5ae5.png)
+
+## Tower Defense Game
+Working as a group we have started on a tower defense game in which the more points you get, the enemies get harder and they change appearence.

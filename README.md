@@ -16,6 +16,8 @@ An app comprised of 8 drum pads, all making a different drum sound. The app was 
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-06 at 15 06 34](https://user-images.githubusercontent.com/98774916/162276345-e4ae4c18-e0df-4f0c-9768-a7a480ee5ae5.png)
 ## <a href = "https://github.com/RockBiscuit/Spotify-Social">Spotify Social</a>
-This app, which is still very bare bones, would be a way to comment, like, and share songs that you are listening to on Spotify. Essentially it would be like an Instagram for music.
+This app, which is still very bare bones, would be a way to comment, like, and share songs that you are listening to on Spotify. Essentially it would be like an Instagram for music. <br>
+<img src="https://user-images.githubusercontent.com/98774916/162286085-3fdb2035-2f5f-4936-bb32-09c494eccff0.png" height="300">
+
 ## Tower Defense Game
 Working as a group we have started work on a tower defense game. The game will have enemies coming for a tower that you need to defend by building towers next to the path that the enemies will be traveling on. The towers will be able to leveled up, and the enemies will progressively get harder.

@@ -12,9 +12,10 @@ I created a website (the domain has expired by now) for a podcast me and my frie
 A game I made as a project for AP Computer Science Principles. It was made using simplistic block programing in MIT App Inventor. You play as a spaceship moving around the screen via touch controls, trying to avoid asteroids. You have a score that starts at 0 and goes up every second you're alive. There are also astornauts falling that add 5 to your score it you hit them, and potions that give you a shield so you can be hit once by an asteroid and survive.
 #### 2022
 ## <a href = "https://github.com/RockBiscuit/Drum-Pads">Drum Pads</a>
-An app comprised of 8 drum pads, all making a different drum sound. The app was created using SwiftUI for the code, and Sketch for the assets.
+An app comprised of 8 drum pads, all making a different drum sound. The app was created using SwiftUI for the code, and Sketch for the assets. Hopefully the app will be able to record in sounds and assign them to different buttons. I would also like to add in an option to record in one sound and chop it into 8 parts to play each section on different pads. Other additions I might add would be a record button to record a song you make, a share button to export a recording as a .mp3 or .wav, and an effects button so you could pitch up or down a sample, or add something like an echo.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-04-06 at 15 06 34](https://user-images.githubusercontent.com/98774916/162276345-e4ae4c18-e0df-4f0c-9768-a7a480ee5ae5.png)
-
+## Spotify Social Media App
+This app, which is still very bare bones, would be a way to comment, like, and share songs that you are listening to on Spotify. Essentially it would be like an Instagram for songs.
 ## Tower Defense Game
-Working as a group we have started on a tower defense game in which the more points you get, the enemies get harder and they change appearence.
+Working as a group we have started work on a tower defense game. The game will have enemies coming for a tower that you need to defend by building towers next to the path that the enemies will be traveling on. The towers will be able to leveled up, and the enemies will progressively get harder.

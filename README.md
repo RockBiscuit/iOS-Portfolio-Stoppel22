@@ -22,9 +22,10 @@ This app, which is still very bare bones, would be a way to comment, like, and s
 ## Tower Defense Game
 Working as a group we have started work on a tower defense game. The game will have enemies coming for a tower that you need to defend by building towers next to the path that the enemies will be traveling on. The towers will be able to leveled up, and the enemies will progressively get harder.
 
-## Song Ranking App
+## <a href="https://github.com/RockBiscuit/Song-Ranker">Song Ranking App</a>
 I really like music, and I also enjoy putting things into lists. This app allows you to take an album and go through each song, picking one over the other. Once you arrive at the end of the tracklist, the songs are put into descending order based on how many points they were given when picking them. <br>
 <img src ="https://user-images.githubusercontent.com/98774916/172395540-0d06646b-f07e-47d5-917e-413e4667b31f.jpg" height="300">
+
 ## <a href = "https://github.com/RockBiscuit/EPHS-Shades">Shades</a>
 My most complete app, Shades is a way to send messages to your friends, as well as a way to creat chatrooms or join already existing ones. I worked on it as part of my Java final project, and as my iOS App Development final project. While there isn't a huge difference between the default Apple Messages and !
 Shades, my group and I wanted to create something that had a practical use. <br>
